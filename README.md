@@ -12,7 +12,7 @@ A simple, functional product browsing interface built with Vue.js 3 and TypeScri
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nadersa22/product-catalog-lite.git
 cd product-catalog-lite
 ```
 
